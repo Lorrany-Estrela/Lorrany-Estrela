@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Lorrany Estrela
 
-<!--
-**Lorrany-Estrela/Lorrany-Estrela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**
+📚 Sempre buscando aprender novas tecnologias e evoluir na área da programação.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Sou apaixonada por tecnologia e desenvolvimento de software.
+Gosto de criar projetos, aprender novas ferramentas e melhorar minhas habilidades todos os dias.
+
+Atualmente estudo e pratico desenvolvimento web, mobile e banco de dados.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### Linguagens
+
+* HTML
+* CSS
+* JavaScript
+* Java
+* Python
+
+### Banco de Dados & Backend
+
+* MySQL
+* Firebase
+
+### Desenvolvimento Mobile
+
+* Android Studio
+
+### Ferramentas & IDEs
+
+* VS Code
+* Eclipse
+* IntelliJ IDEA
+
+---
+
+## 📖 Atualmente aprendendo
+
+* Desenvolvimento Full Stack
+* APIs
+* Firebase
+* Banco de Dados
+* Inteligência Artificial
+
+---
+
+## 🎯 Objetivo
+
+Continuar aprendendo, desenvolvendo projetos e crescendo profissionalmente na área de tecnologia.
+
+---
+
+⭐ Obrigada por visitar meu perfil!
