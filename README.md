@@ -27,18 +27,6 @@ Atualmente fonoaudiando meus estudos em desenvolvimento Web, Mobile, APIs e Banc
 
 ---
 
-## 📊 Minhas Estatísticas (Atualizado Automaticamente)
-
-<p align="center">
-  <!-- Gráfico das linguagens mais usadas nos seus repositórios -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" height="180px" />
-  
-  <!-- Card com resumo de commits, PRs e contribuições -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true" alt="Estatísticas do GitHub" height="180px" />
-</p>
-
----
-
 ## 📖 Atualmente focado em aprender
 * Desenvolvimento Full Stack & Integração de APIs
 * Modelagem Avançada de Banco de Dados
